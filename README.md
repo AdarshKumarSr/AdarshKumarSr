@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-e7gt.onrender.com/experience" target="_blank">
+  <a href="https://portfolio-e7gt.onrender.com/" target="_blank">
      <strong>Check out my Live Portfolio</strong> 
   </a>
 </p>
