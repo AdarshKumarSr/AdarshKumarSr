@@ -1,7 +1,9 @@
-<h1 align="center">👋 Hey there! I'm Adarsh Kumar</h1>
+<h1 align="center" style="font-family: 'Poppins', sans-serif; color: #00bcd4; font-size: 3em;">
+  👋 Hey there! I'm Adarsh Kumar
+</h1>
 
 <p align="center">
-  🎓 Final-year Computer Science Undergrad | 💻 Full-Stack Developer
+  🎓 Final-year Computer Science Undergrad &nbsp;|&nbsp; 💻 Full-Stack Developer
 </p>
 
 <p align="center">
@@ -58,10 +60,10 @@
 
 ---
 
-> _“Consistency beats talent when talent doesn’t show up.”_
+> _“As long as I’m alive, there are infinite chances.”_
 
 ---
 
 <p align="center">
-  📌 Proudly built with ❤️ by <strong>Adarsh Kumar</strong>
+  📌 Built with ❤️ by <strong>Adarsh Kumar</strong>
 </p>
