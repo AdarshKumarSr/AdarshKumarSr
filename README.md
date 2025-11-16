@@ -54,15 +54,11 @@ I'm a final-year Computer Science undergraduate focused on building scalable bac
 <p align="center">
   <!-- <a href="https://github.com/AdarshKumarSr" target="_blank">GitHub</a> • -->
   <a href="https://leetcode.com/u/adarshkumar24/" target="_blank">LeetCode</a> •
-  <a href="https://portfolio-e7gt.onrender.com/" target="_blank">Portfolio</a>
+  <a href="https://portfolio-e7gt.onrender.com/" target="_blank">© Adarsh Kumar</a>
 </p>
 
----
-
-<p align="center">
-  <i>"As long as I'm alive, there are infinite chances."</i>
-</p>
 
 <p align="center">
-  © <a href="https://portfolio-e7gt.onrender.com/" target="_blank"><strong>Adarsh Kumar</strong></a>
+  <i> Training arc : still running.... </i>
 </p>
+
