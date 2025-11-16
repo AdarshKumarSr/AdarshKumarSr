@@ -1,9 +1,9 @@
-<h1 align="center" style="font-family: 'Poppins', sans-serif; color: #00bcd4; font-size: 3em;">
-  Hello, I'm Adarsh Kumar
+<h1 align="center" style="font-family:'Fira Code', monospace; font-weight:600; font-size:2.4rem; color:#10D7DB;">
+  System.out.println("Hello, World !");
 </h1>
 
 <p align="center">
-  Final-year Computer Science Undergraduate • Software Developer
+  I'm Adarsh Final-year Computer Science Undergraduate • Software Developer
 </p>
 
 <p align="center">
